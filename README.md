@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Mr-strong97</h1>
-<h3 align="center">Un développeur frontend passionné de la RDC</h3>
+<h3 align="center">Un développeur Backend passionné de la RDC</h3>
 
 - 🌱 J'apprends actuellement **php**
 
